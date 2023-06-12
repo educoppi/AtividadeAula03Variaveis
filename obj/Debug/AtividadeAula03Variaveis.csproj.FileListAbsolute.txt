@@ -1,0 +1,16 @@
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\bin\Debug\AtividadeAula03Variaveis.exe.config
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\bin\Debug\AtividadeAula03Variaveis.exe
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\bin\Debug\AtividadeAula03Variaveis.pdb
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.exe
+C:\Users\Dudu\source\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.pdb
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\bin\Debug\AtividadeAula03Variaveis.exe.config
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\bin\Debug\AtividadeAula03Variaveis.exe
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\bin\Debug\AtividadeAula03Variaveis.pdb
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.csproj.AssemblyReference.cache
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.exe
+C:\Users\Dudu\Desktop\repos\AtividadeAula03Variaveis\AtividadeAula03Variaveis\obj\Debug\AtividadeAula03Variaveis.pdb
